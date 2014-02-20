@@ -1,0 +1,13 @@
+{
+  "name": "yields-idb-request",
+  "description": "Tiny IDBRequest wrapper that allows node style callbacks",
+  "version": "0.0.1",
+  "keywords": [
+    "idb",
+    "request",
+    "idbrequest"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
